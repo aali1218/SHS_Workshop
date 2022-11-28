@@ -1,9 +1,9 @@
 Time,Parameter,Value
 00:00,RecordID,135158
+00:00,Age,74
 00:00,Age,73
 00:00,Gender,0
 00:00,Height,157.5
-00:00,ICUType,2
 00:00,Weight,56.7
 00:07,pH,7.34
 00:07,PaCO2,44

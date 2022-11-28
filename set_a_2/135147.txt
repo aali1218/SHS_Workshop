@@ -3,7 +3,6 @@ Time,Parameter,Value
 00:00,Age,55
 00:00,Gender,1
 00:00,Height,188
-00:00,ICUType,3
 00:00,Weight,87
 00:06,BUN,26
 00:06,Creatinine,1.2

@@ -3,7 +3,6 @@ Time,Parameter,Value
 00:00,Age,49
 00:00,Gender,0
 00:00,Height,162.6
-00:00,ICUType,2
 00:00,Weight,70
 03:23,DiasABP,67
 03:23,FiO2,0.5

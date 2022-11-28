@@ -1,9 +1,8 @@
 Time,Parameter,Value
 00:00,RecordID,135226
-00:00,Age,90
+00:00,Age,94
 00:00,Gender,1
 00:00,Height,-1
-00:00,ICUType,3
 00:00,Weight,70
 00:42,BUN,26
 00:42,Creatinine,1.2

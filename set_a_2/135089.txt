@@ -1,9 +1,8 @@
 Time,Parameter,Value
 00:00,RecordID,135089
-00:00,Age,90
+00:00,Age,200
 00:00,Gender,1
 00:00,Height,170.2
-00:00,ICUType,3
 00:00,Weight,55.5
 00:44,Lactate,2.9
 02:09,HR,130

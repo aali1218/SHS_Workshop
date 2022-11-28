@@ -1,7 +1,6 @@
 Time,Parameter,Value
 00:00,RecordID,135252
 00:00,Age,63
-00:00,ICUType,2
 00:00,pH,7.37
 00:00,Gender,1
 00:00,Height,167.6

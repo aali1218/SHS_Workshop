@@ -3,7 +3,6 @@ Time,Parameter,Value
 00:00,Age,47
 00:00,Gender,0
 00:00,Height,-1
-00:00,ICUType,1
 00:00,Weight,86.6
 00:29,GCS,15
 00:29,HR,72

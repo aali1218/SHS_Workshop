@@ -3,7 +3,6 @@ Time,Parameter,Value
 00:00,Age,56
 00:00,Gender,1
 00:00,Height,-1
-00:00,ICUType,4
 00:00,Weight,98
 00:22,pH,7.2
 00:22,PaCO2,48

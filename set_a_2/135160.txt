@@ -3,7 +3,6 @@ Time,Parameter,Value
 00:00,Age,66
 00:00,Gender,1
 00:00,Height,-1
-00:00,ICUType,3
 00:00,Weight,55
 00:16,Lactate,2
 02:16,HR,95

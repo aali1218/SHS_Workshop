@@ -1,9 +1,8 @@
 Time,Parameter,Value
 00:00,RecordID,135228
-00:00,Age,90
+00:00,Age,97
 00:00,Gender,0
 00:00,Height,157.5
-00:00,ICUType,1
 00:00,Weight,49.6
 01:51,GCS,14
 01:51,HR,77

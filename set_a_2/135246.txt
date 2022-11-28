@@ -1,9 +1,8 @@
 Time,Parameter,Value
 00:00,RecordID,135246
-00:00,Age,90
+00:00,Age,200
 00:00,Gender,0
 00:00,Height,-1
-00:00,ICUType,1
 00:00,Weight,65
 00:12,FiO2,1
 00:12,MechVent,1

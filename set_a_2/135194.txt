@@ -3,7 +3,6 @@ Time,Parameter,Value
 00:00,Age,81
 00:00,Gender,1
 00:00,Height,-1
-00:00,ICUType,3
 00:00,Weight,51
 00:46,FiO2,0.4
 00:46,MechVent,1

@@ -3,7 +3,6 @@ Time,Parameter,Value
 00:00,Age,46
 00:00,Gender,1
 00:00,Height,-1
-00:00,ICUType,1
 00:00,Weight,64.7
 00:30,HR,105
 00:30,NIDiasABP,49
